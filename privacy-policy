@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Mayur Micro Techniques</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #005e8a;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date:</strong> [Insert Date]</p>
+
+    <p>At <strong>Mayur Micro Techniques</strong>, your privacy is important to us. This Privacy Policy explains how our mobile application (“App”) handles your personal data.</p>
+
+    <h2>1. Information Collection</h2>
+    <p>Our App only collects limited personal information that you voluntarily provide during user registration, such as:</p>
+    <ul>
+      <li>Full Name</li>
+      <li>Mobile Number</li>
+      <li>Email Address (if provided)</li>
+    </ul>
+
+    <h2>2. Data Storage</h2>
+    <p>All collected data is <strong>stored locally on your mobile device</strong>. We do not use any external servers or cloud storage. This means:</p>
+    <ul>
+      <li>No data is transmitted to our company servers or third parties.</li>
+      <li>Your data remains under your full control.</li>
+    </ul>
+
+    <h2>3. Data Usage</h2>
+    <p>The information collected is used only for user identification within the App and to offer a personalized experience. We do <strong>not share, sell, or rent your data</strong> to anyone.</p>
+
+    <h2>4. Data Deletion</h2>
+    <p>You can delete your personal information at any time directly from within the App. Once deleted, your data is permanently removed from your device and <strong>cannot be recovered</strong>.</p>
+
+    <h2>5. Security</h2>
+    <p>While the data is stored locally, we take appropriate precautions to ensure it remains secure on your device. We also recommend using device-level security such as PINs or biometric locks.</p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p>Our App is not intended for children under the age of 13. We do not knowingly collect data from children.</p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>We may update our Privacy Policy from time to time. You will be notified of any changes through the App. Continued use of the App after updates means you accept the revised policy.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy or your data, feel free to contact us:</p>
+    <p>
+      <strong>Mayur Micro Techniques</strong><br>
+      Email: [Insert Email]<br>
+      Phone: [Insert Phone Number]
+    </p>
+
+    <footer>
+      &copy; 2025 Mayur Micro Techniques. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
